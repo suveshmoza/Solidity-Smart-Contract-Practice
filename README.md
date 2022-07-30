@@ -1,4 +1,5 @@
-# codedamn 30 Days of Solidity
+<h1><img height="50px" width="50px" src="https://codedamn.com/assets/images/blacklogo.jpg" /> codedamn 30 Days of Solidity.</h1>
+
 # Practice here [30 Days Solidity Challenge](https://codedamn.com/30-days-of-solidity)
 |Day|Task|
 |---|---|
@@ -22,16 +23,16 @@
 |[DAY 18](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/SumOfArray.sol)| Write a function that returns the sum of an array.|
 |[DAY 19](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/ExpressionSolving.sol)| Write a function that returns the sum of the series `1 + x + x^2+ x^3+ .. + x^n`.|
 |[DAY 20](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/SecondLargestElement.sol)| Write a function that returns the second largest element in an array.|
-|[DAY 21]()| Write a function that returns the highest common factor (HCF) of two numbers.|
-|[DAY 22]()| Define a structure (struct). Write setter and getter function use cases for it.|
-|[DAY 23]()| Define an array of structure (struct). Write setter and getter function use cases for it.|
-|[DAY 24]()| Define an array within a structure (struct). Write setter and getter function use cases for it.|
-|[DAY 25]()| Define an enum. Write setter and getter function use cases for it.|
-|[DAY 26]()| Write a function that returns the address of the owner of a contract.|
-|[DAY 27]()| Define a mapping, write functions to update and retrieve values from a mapping.|
-|[DAY 28]()| Write a function to transfer amount.|
-|[DAY 29]()| Write a function which returns the addresses of team players.|
-|[DAY 30]()| Write a function that concatenates two strings and returns the value of the concatenated strings.|
+|[DAY 21](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/HCF.sol)| Write a function that returns the highest common factor (HCF) of two numbers.|
+|[DAY 22](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/BookStructure.sol)| Define a structure (struct). Write setter and getter function use cases for it.|
+|[DAY 23](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/BooksArray.sol)| Define an array of structure (struct). Write setter and getter function use cases for it.|
+|[DAY 24](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/ArrayWithStudents.sol)| Define an array within a structure (struct). Write setter and getter function use cases for it.|
+|[DAY 25](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/Enum.sol)| Define an enum. Write setter and getter function use cases for it.|
+|[DAY 26](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/OwnerOfTheContract.sol)| Write a function that returns the address of the owner of a contract.|
+|[DAY 27](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/Mapping.sol)| Define a mapping, write functions to update and retrieve values from a mapping.|
+|[DAY 28](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/TransferAmount.sol)| Write a function to transfer amount.|
+|[DAY 29](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/TeamPlayers.sol)| Write a function which returns the addresses of team players.|
+|[DAY 30](https://github.com/suveshmoza/Solidity-Smart-Contract-Practice/blob/main/String.sol)| Write a function that concatenates two strings and returns the value of the concatenated strings.|
 
 # Certificate
-<div align="center"><img src="https://iili.io/SXDxYG.md.png" alt="SXDxYG.md.png" border="0"></div>
+<div align="center"><img src="https://iili.io/SXDxYG.md.png" alt="SXDxYG.md.png"></div>
