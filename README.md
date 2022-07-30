@@ -1,4 +1,4 @@
-<h1><img height="50px" width="50px" src="https://codedamn.com/assets/images/blacklogo.jpg" /> codedamn 30 Days of Solidity.</h1>
+# codedamn 30 Days of Solidity.
 
 # Practice here [30 Days Solidity Challenge](https://codedamn.com/30-days-of-solidity)
 |Day|Task|
